@@ -1,6 +1,6 @@
 # AluraBooks
 <br>
-## projeto da constrição do site alurabooks
+<h2>jeto da constrição do site alurabooks </h2>
 
 <p> Eu iniciei este projeto através de um curso da escola Alura, onde eu obtive muita aprendizagem e pude ratificar muitas outras skills.</p>
 
@@ -21,18 +21,18 @@ Portanto, o figma foi usado como base para cada parte deste projeto. </p>
  quando está em moblie por exemplo o footer é menos, quando está em tela de tablet ou desketop o footer tem mais elementos na tela. </p>
  
  
- ## Algumas imagens do projeto : 
- 
- 
- ## Modo tablet e desktop 
+<h2>Algumas imagens do projeto : </h2>
+
+ <h2>Modo tablet e desktop </h2>
  <br>
- ![alurabooks1](https://user-images.githubusercontent.com/114417026/202597483-c9c08025-9157-4b0f-860b-06baa495c995.png)
+  ![alurabooks1](https://user-images.githubusercontent.com/114417026/202597483-c9c08025-9157-4b0f-860b-06baa495c995.png)
  <br>
 ![alurabooks3](https://user-images.githubusercontent.com/114417026/202597495-d4926e49-ab18-4a2d-9bce-7242bc8d6f9e.png)
 <br>
 ![alurabooks2](https://user-images.githubusercontent.com/114417026/202597517-4f3a761e-3539-4fd4-b5c1-63f131abf998.png)
 <br>
-## Modo mobile
+ 
+<h2>do mobile </h2>
 <br>
 ![alurabooks4](https://user-images.githubusercontent.com/114417026/202597540-b6ef3dda-1cb3-443b-844e-2b720fd7260c.png)
 <br>
