@@ -1,6 +1,6 @@
 <h1>AluraBooks </h1> 
 <br>
-Dê uma olhada no projeto 👉
+Dê uma olhada no projeto  👉 https://alura-books-azure.vercel.app/
 <br>
 <h2>Projeto da construção do site alurabooks </h2>
 
