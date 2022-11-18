@@ -1,5 +1,7 @@
 <h1>AluraBooks </h1> 
 <br>
+Dê uma olhada no projeto 👉
+<br>
 <h2>Projeto da construção do site alurabooks </h2>
 
 <p> Eu iniciei este projeto através de um curso da escola Alura, onde eu obtive muita aprendizagem e pude ratificar muitas outras skills.</p>
