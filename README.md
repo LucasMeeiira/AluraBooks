@@ -9,6 +9,8 @@ Dê uma olhada no projeto  👉 https://alura-books-azure.vercel.app/
 <p> Neste curso eu aprendi a usar a variável no CSS, e também como usar o @import, onde a facilidade de separar cada parte da estilização em um documento diferente, 
 ajuda a manter o código mais limpo e visivelmente melhor.</p>
 
+<p> Neste projeto eu fiz o famoso menu hambuerguer para dispositivo mobile, e foi aproveitado uma parte do menu para desktop e tablet, na parte de categorias.</p>
+
 <p> Obtive um conhecimento básico de como utilizar o Figma, para a realização do preojeto. Todo o projeto foi baseado no que avia sido separado e feito no Figma.
 Portanto, o figma foi usado como base para cada parte deste projeto. </p>
 
