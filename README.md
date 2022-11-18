@@ -1,6 +1,6 @@
 # AluraBooks
 <br>
-<h2>jeto da constrição do site alurabooks </h2>
+<h2>Projeto da constrição do site alurabooks </h2>
 
 <p> Eu iniciei este projeto através de um curso da escola Alura, onde eu obtive muita aprendizagem e pude ratificar muitas outras skills.</p>
 
