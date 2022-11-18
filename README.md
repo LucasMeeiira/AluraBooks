@@ -1,6 +1,6 @@
-# AluraBooks
+<h1>AluraBooks </h1> 
 <br>
-<h2>Projeto da constrição do site alurabooks </h2>
+<h2>Projeto da construção do site alurabooks </h2>
 
 <p> Eu iniciei este projeto através de um curso da escola Alura, onde eu obtive muita aprendizagem e pude ratificar muitas outras skills.</p>
 
@@ -10,15 +10,15 @@ ajuda a manter o código mais limpo e visivelmente melhor.</p>
 <p> Obtive um conhecimento básico de como utilizar o Figma, para a realização do preojeto. Todo o projeto foi baseado no que avia sido separado e feito no Figma.
 Portanto, o figma foi usado como base para cada parte deste projeto. </p>
 
-<p> foi ratificado ainda mais uso uso do Display Flex, formas de alinhar os itens na página, usando em uma lista não ordenada, imagens, no header, main, footer. </p>
+<p> Foi ratificado ainda mais o uso do Display Flex, formas de alinhar os itens na página, usando em uma lista não ordenada, imagens, no header, main, footer. </p>
 
 <p> Foi usado o linear-gradient para uma estilização de fundo um pouco mais complexa. Alterando as cores, deixando assim a página visivelmente mais atraente. </p>
 
 <p> Também foi usado o em, a porcentagem (%), vw, vh para uma melhora na responsividade da página.</p>
 
 <p> Esse foi um curso e projeto que focou na responsividade, por isso usamos o media queries para a responsividade de toda a página, 
- desde uma tela para celular de 400 px, um tablet de 1024px até um desktop de 1728px. E com a responsividade também foi alterado algumas partes do site
- quando está em moblie por exemplo o footer é menos, quando está em tela de tablet ou desketop o footer tem mais elementos na tela. </p>
+ desde uma tela para celular de 400 px, um tablet de 1024px até um desktop de 1728px. E com a responsividade, também foi alterado algumas partes do site.
+ Quando está em moblie por exemplo, o footer é menor, quando está em uma tela de tablet ou desketop o footer tem mais elementos. </p>
  
  
 <h2>Algumas imagens do projeto : </h2>
