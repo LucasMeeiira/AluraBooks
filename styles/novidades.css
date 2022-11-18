@@ -1,0 +1,86 @@
+.novidades {
+    background: var(--fundo-branco);
+}
+
+.novidades__titulo{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--azul);
+    padding: 1em;
+}
+
+.novidades__texto{
+    font-weight: 300;
+    color: var(--azul);
+    margin: 0 1em;
+}
+
+.novidades__botao{
+    border: 1px solid var(--azul);
+    width: 80vw;
+    padding: 1em;
+    border-radius: 25px;
+    margin: 2em 2em;
+}
+
+.novidades__botao::placeholder {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--azul);
+    background-image: url("../img/Email.svg") ;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 0 2em;
+}
+
+@media screen and (min-width:1024px) {
+ .novidades__titulo{
+    font-size: 24px;
+    width: 30%;
+    padding: 3em 0 1em 4em;
+ }
+
+ .novidades__texto{
+    width: 30%;
+    padding-left: 5em;
+ }
+    
+ .novidades__botao{
+    width: 30%;
+    position: relative;
+    left:40em;
+    bottom: 8em;
+ }
+    
+}
+
+
+@media screen and (min-width: 1728px) {
+    .novidades {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       
+    }
+
+    .novidades__conteiner{
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        margin-left: 15vw;
+    }
+
+    .novidades__botao{
+        width: 18%;
+        margin-right: 30vw;
+        
+        
+    }
+    
+    .novidades__botao::placeholder{
+        background-position: 1em;
+        padding:0 3em
+    }
+
+
+}
